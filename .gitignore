@@ -1,0 +1,6 @@
+images
+*.jpg
+*.py
+*.yml
+ipynb_checkpoints
+*.pkl
